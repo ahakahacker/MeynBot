@@ -1,1 +1,1 @@
-
+https://github.com/ahakahacker/MeynBot/releases/download/0.1/build.zip
