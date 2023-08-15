@@ -1,5 +1,10 @@
-# MeynBot
+<p align="center">
+MeynBot
+</p>
+
 Дискорд бот сделанный на python, специально для [TIMRGER](https://www.youtube.com/channel/UChabHGliHnSF-VkaZVEG0cg)
+> **Note**\
+> Настраивать бота вы должны сами в отдельном файле
 
 ## Особенности
 * Система обновлений, вам не придётся обновлять бота вручную
