@@ -1,7 +1,7 @@
 <h1 align="center">MeynBot</h1>
 
 Дискорд бот сделанный на python, специально для [TIMRGER](https://www.youtube.com/channel/UChabHGliHnSF-VkaZVEG0cg)
-> **Warning**\
+> **Внимание**\
 > Настраивать бота вы должны сами в отдельном файле
 
 ## Особенности
